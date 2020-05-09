@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WifiControl</string>
+    <string name="wifiName">输入WiFi的名称</string>
+    <string name="wifiPassword">输入WiFi密码</string>
+    <string name="wifiConnect">模拟WiFi的自动连接</string>
+    <string name="closeConnect">断开连接</string>
+</resources>
